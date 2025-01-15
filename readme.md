@@ -1,4 +1,3 @@
-````markdown
 # Code Assistant API
 
 Welcome to the **Code Assistant API**, a tool designed to analyze and process
@@ -27,11 +26,11 @@ project-specific data.
 ## Installation
 
 1. **Clone the repository:**
+
    ```bash
    git clone [your-repo-url]
    cd [repo-name]
    ```
-````
 
 2. **Set up the environment:** Ensure Python 3.8+ is installed. Create and
    activate a virtual environment:
