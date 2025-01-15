@@ -28,8 +28,8 @@ project-specific data.
 1. **Clone the repository:**
 
    ```bash
-   git clone [your-repo-url]
-   cd [repo-name]
+   git clone https://github.com/DaimDN/Code-Assistant-API-Fine-Tunning
+   cd Code-Assistant-API-Fine-Tunning
    ```
 
 2. **Set up the environment:** Ensure Python 3.8+ is installed. Create and
